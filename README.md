@@ -18,15 +18,19 @@
 
 ##Книги
 *Лучший друг человека*
-* Англоязычные
- * [Издательство O'Reilly](http://www.oreilly.com/openbook/)
- * [Java™ Application Development on Linux®](http://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf)
- * [Think Java](http://greenteapress.com/thinkapjava/)
- * [The Java EE6 Tutorial](http://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf)
- * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
- * [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
- * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
- * [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf)
- * [Category wise tutorials — J2EE](http://www.mkyong.com/)
- * [Introduction to Programming Using Java — David J. Eck](http://math.hws.edu/javanotes/index.html)
-*
+*Все в куче
+* [Издательство O'Reilly](http://www.oreilly.com/openbook/)
+* [Хабрахабр: Много бесплатных книг по программированию](https://habrahabr.ru/post/191312/)
+*Java
+ * Англоязычные
+  * [Java™ Application Development on Linux®](http://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf)
+  * [Think Java](http://greenteapress.com/thinkapjava/)
+  * [The Java EE6 Tutorial](http://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf)
+  * [Java Thin-Client Programming](http://www.redbooks.ibm.com/redbooks/SG245118.html)
+  * [Sun's Java Tutorials](http://download.oracle.com/javase/tutorial/)
+  * [Thinking in Java](http://www.mindview.net/Books/TIJ/)
+  * [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf)
+  * [Category wise tutorials — J2EE](http://www.mkyong.com/)
+  * [Introduction to Programming Using Java — David J. Eck](http://math.hws.edu/javanotes/index.html)
+ *
+*Web
