@@ -38,7 +38,7 @@
 * Web
  * Англоязычные
    * [Learning JavaScript Design Patterns](http://www.reedbushey.com/55Learning%20%20Javascript%20Design%20Patterns.pdf)
-   * [JavaScript tutorialspoint](http://www.tutorialspoint.com/javascript/javascript_tutorial.pdf)
-   * [Eloquent JavaScript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf)
+    * [JavaScript tutorialspoint](http://www.tutorialspoint.com/javascript/javascript_tutorial.pdf)
+    * [Eloquent JavaScript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf)
  * Русскоязычные
    * [JavaScript Дэвид Флэнаган](http://kharchuk.ru/JavaScript.pdf)
