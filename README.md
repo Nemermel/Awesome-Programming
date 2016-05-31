@@ -1,5 +1,5 @@
 #Awesome Programming:
-### List of all necessary.
+
 
 ##Содержание:
 * [Официальная Документация](#Документация)
@@ -11,8 +11,13 @@
 * [Подобные Статьи](#Подобные-Статьи)
 
 ##Документация
-*Спецификация API для Java™ Platform, Standard Edition*
+*-Почему не компилиться?*
+*-Я хз. Кури доки.*
 * [Oracle](https://docs.oracle.com/javase/7/docs/api/)
+* [JavaScript on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [W3C - Веб Консорциум](https://www.w3.org/)
+* [devDocs - Онлайн/оффлайн документации](http://devdocs.io/)
+* [Zeal - Огромный сборник документаций, для оффлайна](https://zealdocs.org/)
 
 ##Новости
 *Список последних, и не очень событий:*
