@@ -17,7 +17,7 @@
 * [JavaScript on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [W3C - Веб Консорциум](https://www.w3.org/)
 * [devDocs - Онлайн/оффлайн документации](http://devdocs.io/)
-* [Zeal - Огромный сборник документаций, для оффлайна](https://zealdocs.org/)
+* [Zeal - Огромный сборник документаций, для оффлайн использования](https://zealdocs.org/)
 
 ##Новости
 *Список последних, и не очень событий:*
