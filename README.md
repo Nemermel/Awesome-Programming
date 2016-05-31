@@ -21,7 +21,7 @@
 * Все в куче
  * [Издательство O'Reilly](http://www.oreilly.com/openbook/)
  * [Хабрахабр: Много бесплатных книг по программированию](https://habrahabr.ru/post/191312/)
-*Java
+* Java
  * Англоязычные
     * [Java™ Application Development on Linux®](http://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf)
      * [Think Java](http://greenteapress.com/thinkapjava/)
@@ -32,5 +32,13 @@
      * [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf)
      * [Category wise tutorials — J2EE](http://www.mkyong.com/)
      * [Introduction to Programming Using Java — David J. Eck](http://math.hws.edu/javanotes/index.html)
- *
-*Web
+ * Русскоязычные
+   * [Герберт Шилдт - Java. Полное руководство](www.ex.ua/80828854)
+   * [Сборник Книг](http://www.ex.ua/78721128)
+* Web
+ * Англоязычные
+   * [Learning JavaScript Design Patterns](http://www.reedbushey.com/55Learning%20%20Javascript%20Design%20Patterns.pdf)
+   * [JavaScript tutorialspoint](http://www.tutorialspoint.com/javascript/javascript_tutorial.pdf)
+   * [Eloquent JavaScript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf)
+ * Русскоязычные
+   * [JavaScript Дэвид Флэнаган](http://kharchuk.ru/JavaScript.pdf)
