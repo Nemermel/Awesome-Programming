@@ -62,7 +62,7 @@
   * [Продвинутый javascript](https://www.youtube.com/watch?v=xydnbUZqzto&list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg)
 
 ##Подобные ресурсы
-*asd*
+*Поддержите труд этих людей, они старались для вас*
 * [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * [awesome-svg](https://github.com/willianjusten/awesome-svg)
 * [Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)
