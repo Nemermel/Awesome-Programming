@@ -4,8 +4,11 @@
 ##Содержание:
 * [Официальная Документация](#Документация)
 * [Новости](#Новости)
+* [Сообщества и ресурсы](#Сообщества-и-ресурсы)
 * [Книги](#Книги)
 * [Видео](#Видео)
+* [Источники](#Источники)
+* [Подобные-Статьи](#Подобные-Статьи)
 
 ##Документация
 *Спецификация API для Java™ Platform, Standard Edition*
@@ -16,6 +19,14 @@
 * [Хабрахабр](https://habrahabr.ru/hub/java/)
 * [linux.org](https://www.linux.org.ru/news/java/)
 * [JavaWorld](http://www.javaworld.com/news/)
+
+##Сообщества и ресурсы
+*Guys who overdo it on StackOverflow?*
+![Image of Yaktocat]
+(http://www.commitstrip.com/wp-content/uploads/2015/11/Strip-Le-type-de-Stackoverflow-650-finalenglish.jpg)
+* [Frontender Magazine](http://frontender.info/)
+* [Хабрахабр](https://habrahabr.ru)
+* [Stack Overflow - сайт вопросов и ответов для программистов](http://ru.stackoverflow.com/)
 
 ##Книги
 *Лучший друг человека*
@@ -61,7 +72,12 @@
   * [Основы Javascript](https://www.youtube.com/watch?v=n0sPFaLsNeI&list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX)
   * [Продвинутый javascript](https://www.youtube.com/watch?v=xydnbUZqzto&list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg)
 
-##Подобные ресурсы
+##Источники
+*Библиотеки, фреймворки и плагины, для продвинутых пользователей*
+* [Javascripting](https://www.javascripting.com/)
+* [The most used Java libraries on GitHub](http://blog.takipi.com/we-analyzed-60678-libraries-on-github-here-are-the-top-100/)
+
+###Подобные Статьи
 *Поддержите труд этих людей, они старались для вас*
 * [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * [awesome-svg](https://github.com/willianjusten/awesome-svg)
