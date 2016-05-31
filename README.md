@@ -78,7 +78,7 @@
   * [Продвинутый javascript](https://www.youtube.com/watch?v=xydnbUZqzto&list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg)
 
 ##Источники
-*Библиотеки, фреймворки и плагины, для продвинутых пользователей*
+*Библиотеки, фреймворки и плагины, для продвинутых кодеров*
 * [Javascripting](https://www.javascripting.com/)
 * [The most used Java libraries on GitHub](http://blog.takipi.com/we-analyzed-60678-libraries-on-github-here-are-the-top-100/)
 
