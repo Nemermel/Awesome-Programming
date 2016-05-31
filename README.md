@@ -69,8 +69,8 @@
 * Java
   * [Основы ООП](https://www.youtube.com/playlist?list=PLwwk4BHih4fg8e6-dUMveq3LIDZouwoqz)
   * [Java для чайников](https://www.youtube.com/playlist?list=PLEvI1OiL1F3ctezdKwvJnQK2f_H8U0HqK)
-	* [Уроки по Java SE](https://www.youtube.com/playlist?list=PLIU76b8Cjem48KXIy83YIm-QM6SwvzjQd)
-	* [Вводный курс по языку программирования JAVA для android разработчиков](https://www.youtube.com/playlist?list=PLyfVjOYzujuj1J2z2CgHw1p4PdDwHuRsd)
+  * [Уроки по Java SE](https://www.youtube.com/playlist?list=PLIU76b8Cjem48KXIy83YIm-QM6SwvzjQd)
+  * [Вводный курс по языку программирования JAVA для android разработчиков](https://www.youtube.com/playlist?list=PLyfVjOYzujuj1J2z2CgHw1p4PdDwHuRsd)
 * Web
   * [HTML для начинающих](https://www.youtube.com/watch?v=8mK5aY5YOCc)
   * [Основы CSS](https://www.youtube.com/watch?v=NkmZl1Yy94Q)
