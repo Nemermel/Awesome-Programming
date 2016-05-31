@@ -21,7 +21,7 @@
 * Все в куче
  * [Издательство O'Reilly](http://www.oreilly.com/openbook/)
  * [Хабрахабр: Много бесплатных книг по программированию](https://habrahabr.ru/post/191312/)
-*Java
+* Java
  * Англоязычные
     * [Java™ Application Development on Linux®](http://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf)
      * [Think Java](http://greenteapress.com/thinkapjava/)
