@@ -1,7 +1,7 @@
-#Awesome Programming:
+# Awesome Programming:
 
 
-##Содержание:
+## Содержание:
 * [Документации](#Документации)
 * [Новости](#Новости)
 * [Сообщества и ресурсы](#Сообщества-и-ресурсы)
@@ -10,7 +10,7 @@
 * [Источники](#Источники)
 * [Подобные Статьи](#Подобные-Статьи)
 
-##Документации
+## Документации
 *-Почему не компилиться?*
 *-Я хз. Кури доки.*
 * [Oracle](https://docs.oracle.com/javase/7/docs/api/)
@@ -19,13 +19,13 @@
 * [devDocs - Онлайн/оффлайн документации](http://devdocs.io/)
 * [Zeal - Огромный сборник документаций, для оффлайн использования](https://zealdocs.org/)
 
-##Новости
+## Новости
 *Список последних, и не очень событий:*
 * [Хабрахабр](https://habrahabr.ru/hub/java/)
 * [linux.org](https://www.linux.org.ru/news/java/)
 * [JavaWorld](http://www.javaworld.com/news/)
 
-##Сообщества и ресурсы
+## Сообщества и ресурсы
 *Guys who overdo it on StackOverflow?*
 ![Image of Yaktocat]
 (http://www.commitstrip.com/wp-content/uploads/2015/11/Strip-Le-type-de-Stackoverflow-650-finalenglish.jpg)
@@ -33,7 +33,7 @@
 * [Хабрахабр](https://habrahabr.ru)
 * [Stack Overflow - сайт вопросов и ответов для программистов](http://ru.stackoverflow.com/)
 
-##Книги
+## Книги
 *Лучший друг человека*
 * Все в куче
  * [Издательство O'Reilly](http://www.oreilly.com/openbook/)
@@ -62,7 +62,7 @@
      * [JavaScript: Подробное руководство](https://dl.dropboxusercontent.com/u/5332751/files/JavaScript.pdf)
      * [Progbook Ресурс книг](http://progbook.ru/javascript/)
 
-##Видео
+## Видео
 *Второй лучший друг человека*
 * Git - Система Контроля Версий
   * [Git - для новичков](https://www.youtube.com/watch?v=PEKN8NtBDQ0&list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb)
@@ -77,12 +77,12 @@
   * [Основы Javascript](https://www.youtube.com/watch?v=n0sPFaLsNeI&list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX)
   * [Продвинутый javascript](https://www.youtube.com/watch?v=xydnbUZqzto&list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg)
 
-##Источники
+## Источники
 *Библиотеки, фреймворки и плагины, для продвинутых кодеров*
 * [Javascripting](https://www.javascripting.com/)
 * [The most used Java libraries on GitHub](http://blog.takipi.com/we-analyzed-60678-libraries-on-github-here-are-the-top-100/)
 
-###Подобные Статьи
+### Подобные Статьи
 *Поддержите труд этих людей, они старались для вас*
 * [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * [awesome-svg](https://github.com/willianjusten/awesome-svg)
