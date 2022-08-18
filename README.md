@@ -26,9 +26,8 @@
 * [JavaWorld](http://www.javaworld.com/news/)
 
 ## Сообщества и ресурсы
-*Guys who overdo it on StackOverflow?*
-![Image of Yaktocat]
-(http://www.commitstrip.com/wp-content/uploads/2015/11/Strip-Le-type-de-Stackoverflow-650-finalenglish.jpg)
+### Guys who overdo it on StackOverflow?
+![Image of Yaktocat](http://www.commitstrip.com/wp-content/uploads/2015/11/Strip-Le-type-de-Stackoverflow-650-finalenglish.jpg)
 * [Frontender Magazine](http://frontender.info/)
 * [Хабрахабр](https://habrahabr.ru)
 * [Stack Overflow - сайт вопросов и ответов для программистов](http://ru.stackoverflow.com/)
@@ -78,12 +77,12 @@
   * [Продвинутый javascript](https://www.youtube.com/watch?v=xydnbUZqzto&list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg)
 
 ## Источники
-*Библиотеки, фреймворки и плагины, для продвинутых кодеров*
+*Что можно почитать*
 * [Javascripting](https://www.javascripting.com/)
 * [The most used Java libraries on GitHub](http://blog.takipi.com/we-analyzed-60678-libraries-on-github-here-are-the-top-100/)
+* [Roadmap for almost anything](https://roadmap.sh/)
 
 ### Подобные Статьи
 *Поддержите труд этих людей, они старались для вас*
-* [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
-* [awesome-svg](https://github.com/willianjusten/awesome-svg)
+* [awesome-list](https://github.com/sindresorhus/awesome)
 * [Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)
